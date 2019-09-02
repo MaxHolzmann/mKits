@@ -1,0 +1,56 @@
+name: mKits
+main: me.mkits.Main.Main
+version: 0.5
+commands:
+   pvp:
+     description: KitPvP.pvp
+   archer:
+     description: KitPvP.archer
+   elite:
+     description: KitPvP.elite
+   knight:
+     description: KitPvP.knight
+   blaze:
+     description: KitPvP.blaze
+   tank:
+     description: KitPvP.tank
+   fisherman:
+     description: KitPvP.fisherman
+   switcher:
+     description: KitPvP.switcher
+   sniper:
+     description: KitPvP.sniper
+   grandpa:
+     description: KitPvP.grandpa
+   viking:
+     description: KitPvP.viking
+   scout:
+     description: KitPvP.scout
+   help:
+     description: The help msg!
+   pl:
+     description: Plugins
+   ?:
+     description: Plugins
+   kits:
+     description: KitPvP.kits
+   sonic:
+     description: KitPvP.sonic
+   urgal:
+     description: KitPvP.urgal
+   dwarf:
+     description: KitPvP.dwarf
+   soup:
+     description: KitPvP.soup
+   viper:
+     description: Kitpvp.viper
+   gm:
+     description: Kitpvp.gm
+   voter:
+     description: Received from Voting
+   events:
+     description: Events
+   ktk:
+     description: Kill the King Kit!
+   rules:
+  
